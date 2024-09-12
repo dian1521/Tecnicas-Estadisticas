@@ -1,1 +1,1 @@
-# Tecnicas-Estadisticas
+# Técnicas Estadísticas
